@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\bin\Debug\BD_CHAVEIRO.exe.config
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\bin\Debug\bdChaveiro.mdf
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\bin\Debug\bdChaveiro_log.ldf
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\bin\Debug\BD_CHAVEIRO.exe
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\bin\Debug\BD_CHAVEIRO.pdb
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\obj\Debug\BD_CHAVEIRO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\obj\Debug\BD_CHAVEIRO.Properties.Resources.resources
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\obj\Debug\BD_CHAVEIRO.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\obj\Debug\BD_CHAVEIRO.exe
+C:\Users\Usuario\Documents\CHAVEIRO\BD_CHAVEIRO\BD_CHAVEIRO\obj\Debug\BD_CHAVEIRO.pdb
